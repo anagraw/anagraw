@@ -1,6 +1,6 @@
 ### Hi there 👋, Ananya Agrawal
 #### Tech and Finance Enthusiast
-![Tech and Finance Enthusiast](https://www.canva.com/design/DAFO_r-vIC4/Ckqmc6p6OMylxzUX1JTxEQ/edit?utm_content=DAFO_r-vIC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Tech and Finance Enthusiast]([https://www.canva.com/design/DAFO_r-vIC4/Ckqmc6p6OMylxzUX1JTxEQ/edit?utm_content=DAFO_r-vIC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFO_r-vIC4/Y70kIWt_oP90KQeDYyKU2A/view?utm_content=DAFO_r-vIC4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 I'm Ananya Agrawal, a sophomore at BITS Pilani Hyderabad Campus. I am a curious mind and self-starter. The sense of satisfaction gained when solving problems at hand, wrecking my brain to link all that I have learned to solve the problem at hand, and brainstorming on new and developing ideas with people brings a beaming smile to my face. I enjoy Web Development using HTML, CSS, JS, NodeJS, ReactJS, Bootstrap, and MongoDB. I am also into competitive programming.
 
