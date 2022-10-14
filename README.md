@@ -20,3 +20,10 @@ You can check out my LinkedIn at https://www.linkedin.com/in/ananya-agrawal-6b98
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anagraw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ananya-agrawal-6b9803222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AnanyaA37112151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@ananyamazing)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anagraw)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anagraw&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/anagraw)  
+
+
