@@ -1,4 +1,4 @@
-### Hi there 👋, Ananya Agrawal
+### Hi there 👋, I'm Ananya Agrawal
 #### Tech and Finance Enthusiast
 ![Tech and Finance Enthusiast](https://media-exp1.licdn.com/dms/image/D5616AQHG-oHo62n_Vw/profile-displaybackgroundimage-shrink_350_1400/0/1665736929311?e=1671062400&v=beta&t=1BF-p_IuIzyEAohERVKeXb8D6okn6aRLQlIzvH8oak4)
 
@@ -8,7 +8,12 @@ I am proficient in the following Computer Programming Languages: C, C++, Python
 
 You can check out my LinkedIn at https://www.linkedin.com/in/ananya-agrawal-6b9803222 
 
-Skills: C / C++ / Python / MongoDB / NodeJS / REACT / JS / HTML / CSS / Bootstrap
+## Skills and Experience 
+* ⚛ React, NodeJS
+* 💻 HTML, CSS, JS, Bootstrap
+* 👩‍💻 C, C++, Python
+* 📰 MySQl, MongoDB, Stata
+
 
 - 📫 How to reach me: anagrawal1607@gmail.com 
 
